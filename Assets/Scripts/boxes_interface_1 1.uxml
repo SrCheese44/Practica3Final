@@ -1,0 +1,14 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Scripts/box_style_1.uss?fileID=7433441132597879392&amp;guid=1b0c754d591d2a94098bdf655a225d89&amp;type=3#box_style_1" />
+    <ui:Box name="horizontal_box">
+        <ui:Button name="menu_1" text="Granjero" style="-unity-font: resource(&apos;Corn_Farm&apos;); -unity-font-definition: initial;" />
+        <ui:Button name="menu_2" text="Apicultor" style="-unity-font: resource(&apos;Corn_Farm&apos;); -unity-font-definition: initial;" />
+        <ui:Button name="menu_3" text="Distribuidor" style="-unity-font: resource(&apos;Corn_Farm&apos;); -unity-font-definition: initial;" />
+        <ui:Button name="menu_4" text="Lechero" style="-unity-font: resource(&apos;Corn_Farm&apos;); -unity-font-definition: initial;" />
+    </ui:Box>
+    <ui:Box name="vertical_box">
+        <ui:Button name="submenu_1" text="Facil" style="-unity-font: resource(&apos;Corn_Farm&apos;); -unity-font-definition: initial;" />
+        <ui:Button name="submenu_2" text="Medio" style="-unity-font: resource(&apos;Corn_Farm&apos;); -unity-font-definition: initial;" />
+        <ui:Button name="submenu_3" text="Dificil" style="-unity-font: resource(&apos;Corn_Farm&apos;); -unity-font-definition: initial;" />
+    </ui:Box>
+</ui:UXML>

@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Scripts/box_style_1.uss?fileID=7433441132597879392&amp;guid=1b0c754d591d2a94098bdf655a225d89&amp;type=3#box_style_1" />
+    <ui:Box name="horizontal_box" style="height: 454px; top: -4px; left: -4%;">
+        <ui:Button name="menu_1" text="Arbol" style="top: 20%; -unity-font-style: bold; -unity-font: resource(&apos;Corn_Farm&apos;); -unity-font-definition: initial;" />
+        <ui:Button name="menu_2" text="Plantas" style="left: 12.5%; top: 41%; -unity-font-style: bold; -unity-font: resource(&apos;Corn_Farm&apos;); -unity-font-definition: initial;" />
+        <ui:Button name="menu_3" text="Entorno" style="left: 12.5%; top: 65%; -unity-font-style: bold; -unity-font: resource(&apos;Corn_Farm&apos;); -unity-font-definition: initial;" />
+        <ui:Button name="menu_4" text="Volver" style="left: 12.5%; top: 89%; -unity-font-style: bold; -unity-font: resource(&apos;Corn_Farm&apos;); -unity-font-definition: initial;" />
+    </ui:Box>
+</ui:UXML>
